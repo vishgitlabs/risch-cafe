@@ -26,7 +26,7 @@ if (toggle && nav) {
 // behaviour to POST to your Formspree endpoint instead (see README.md).
 const chatForm = document.getElementById('chatForm');
 const chatStatus = document.getElementById('chatFormStatus');
-const CAFE_EMAIL = 'hello@rischcafe.com'; // <-- replace with your real inbox
+const CAFE_EMAIL = 'v.khandelwal786@gmail.com'; // <-- replace with your real inbox
 
 if (chatForm && chatStatus) {
   chatForm.addEventListener('submit', (e) => {
